@@ -11,3 +11,14 @@
 - solving nvcc not found error  
   NVCC = (which nvcc) in Makefile  
   http://blog.csdn.net/qq_30401249/article/details/51564871
+
+
+
+# Image Labeling
+- LabelImg : a graphical image annotation tool  
+  https://github.com/tzutalin/labelImg
+- PR-012: Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks  
+  https://www.youtube.com/watch?v=kcPAGIgBGRs
+- Tensorflow Python API Guides : Image  
+  https://www.tensorflow.org/api_guides/python/image
+- 
