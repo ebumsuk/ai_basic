@@ -1,5 +1,5 @@
 
-# Study YOLO
+# YOLO
 - YOLO: Real-Time Object Detection  
   https://pjreddie.com/darknet/yolo/
 - paper: You Only Look Once: Unified, Real-Time Object Detection  
@@ -12,6 +12,13 @@
   NVCC = (which nvcc) in Makefile  
   http://blog.csdn.net/qq_30401249/article/details/51564871
 
+
+# SSD (Single Shot Detector)
+- Wei Liu's page  
+  http://www.cs.unc.edu/~wliu/
+
+
+# R-CNN
 
 
 # Image Labeling
