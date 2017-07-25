@@ -32,9 +32,9 @@
 
 
 # Awesome Lists : A curated list of curated lists
-- awesome-object-proposals
+- awesome-object-proposals  
   https://github.com/caocuong0306/awesome-object-proposals
-- Awesome Deep Vision
+- Awesome Deep Vision  
   https://github.com/kjw0612/awesome-deep-vision
-- Awesome TensorFlow
+- Awesome TensorFlow  
   https://github.com/jtoy/awesome-tensorflow
