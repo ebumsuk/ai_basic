@@ -1,4 +1,12 @@
 
+# Awesome Lists : A curated list of curated lists
+- awesome-object-proposals  
+  https://github.com/caocuong0306/awesome-object-proposals
+- Awesome Deep Vision  
+  https://github.com/kjw0612/awesome-deep-vision
+- Awesome TensorFlow  
+  https://github.com/jtoy/awesome-tensorflow
+
 # YOLO
 - YOLO: Real-Time Object Detection  
   https://pjreddie.com/darknet/yolo/
@@ -29,12 +37,3 @@
 - Tensorflow Python API Guides : Image  
   https://www.tensorflow.org/api_guides/python/image
 - 
-
-
-# Awesome Lists : A curated list of curated lists
-- awesome-object-proposals  
-  https://github.com/caocuong0306/awesome-object-proposals
-- Awesome Deep Vision  
-  https://github.com/kjw0612/awesome-deep-vision
-- Awesome TensorFlow  
-  https://github.com/jtoy/awesome-tensorflow
