@@ -39,5 +39,9 @@
 - PR-012: Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks  
   https://www.youtube.com/watch?v=kcPAGIgBGRs
 - Tensorflow Python API Guides : Image  
-  https://www.tensorflow.org/api_guides/python/image
-- 
+  https://www.tensorflow.org/api_guides/python/image  
+  
+# etc
+- Class Activation Mapping  
+  http://cnnlocalization.csail.mit.edu/
+  
