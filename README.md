@@ -29,7 +29,7 @@
 # R-CNN
 
 
-# Image Labeling
+# Image Annotation
 - LabelImg : a graphical image annotation tool  
   https://github.com/tzutalin/labelImg
 - LabelMe. The Open annotation tool  
