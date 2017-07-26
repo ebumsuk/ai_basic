@@ -34,6 +34,8 @@
   https://github.com/tzutalin/labelImg
 - LabelMe. The Open annotation tool  
   http://labelme.csail.mit.edu
+- List of Manual Image Annotation Tools  
+  https://en.wikipedia.org/wiki/List_of_Manual_Image_Annotation_Tools
 - PR-012: Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks  
   https://www.youtube.com/watch?v=kcPAGIgBGRs
 - Tensorflow Python API Guides : Image  
