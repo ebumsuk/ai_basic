@@ -41,6 +41,10 @@
 - Tensorflow Python API Guides : Image  
   https://www.tensorflow.org/api_guides/python/image  
   
+# Unsupervised Learning
+- Learning Features by Watching Objects Move (CVPR 2017)
+  https://github.com/pathak22/unsupervised-video  
+  
 # etc
 - Class Activation Mapping  
   http://cnnlocalization.csail.mit.edu/
