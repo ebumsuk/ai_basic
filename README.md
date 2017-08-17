@@ -44,6 +44,8 @@
 # Unsupervised Learning
 - Learning Features by Watching Objects Move (CVPR 2017)  
   https://github.com/pathak22/unsupervised-video  
+- Video Segmentation by Non-Local Consensus Voting (Alon Faktor and Michal Irani)  
+  http://www.wisdom.weizmann.ac.il/~vision/NonLocalVideoSegmentation.html
   
 # etc
 - Class Activation Mapping  
