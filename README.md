@@ -46,8 +46,8 @@
   https://github.com/pathak22/unsupervised-video  
 - Video Segmentation by Non-Local Consensus Voting (Alon Faktor and Michal Irani)  
   http://www.wisdom.weizmann.ac.il/~vision/NonLocalVideoSegmentation.html
-- Object Tracker written in Python using dlib and OpenCV - by Bikramjot Hanzra
-  https://github.com/bikz05/object-tracker
+- Object Tracker written in Python using dlib and OpenCV - by Bikramjot Hanzra  
+  https://github.com/bikz05/object-tracker  
   
 # etc
 - Class Activation Mapping  
