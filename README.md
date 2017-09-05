@@ -27,6 +27,19 @@
 
 
 # R-CNN
+- MASK R-CNN  
+  paper: https://arxiv.org/pdf/1703.06870.pdf  
+  code(tensorflow): https://github.com/CharlesShang/FastMaskRCNN  
+- FASTER R-CNN  
+  paper: https://arxiv.org/pdf/1506.01497.pdf  
+  code(caffe): https://github.com/rbgirshick/py-faster-rcnn  
+- FAST R-CNN  
+  paper: https://arxiv.org/pdf/1504.08083.pdf  
+- R-CNN  
+  paper: https://arxiv.org/pdf/1311.2524.pdf  
+- etc  
+  https://tensorflow.blog/2017/06/05/from-r-cnn-to-mask-r-cnn/  
+  https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4  
 
 
 # Image Annotation
