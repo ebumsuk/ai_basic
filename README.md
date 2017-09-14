@@ -22,9 +22,11 @@
 
 
 # SSD (Single Shot Detector)
-- Wei Liu's page  
-  http://www.cs.unc.edu/~wliu/
-
+- Wei Liu's page: http://www.cs.unc.edu/~wliu/  
+- code(tensorflow): https://github.com/balancap/SSD-Tensorflow  
+  code(pytorch): https://github.com/amdegroot/ssd.pytorch  
+  code(pytorch): https://github.com/kuangliu/pytorch-ssd  
+  code(chainer): https://github.com/Hakuyume/chainer-ssd
 
 # R-CNN
 - MASK R-CNN  
@@ -40,8 +42,13 @@
 - etc  
   https://tensorflow.blog/2017/06/05/from-r-cnn-to-mask-r-cnn/  
   https://blog.athelas.com/a-brief-history-of-cnns-in-image-segmentation-from-r-cnn-to-mask-r-cnn-34ea83205de4  
-
-
+  
+# etc  
+- ChainerCV: a Library for Computer Vision in Deep Learning  
+  https://github.com/chainer/chainercv/  
+- Class Activation Mapping  
+  http://cnnlocalization.csail.mit.edu/  
+  
 # Image Annotation
 - LabelImg : a graphical image annotation tool  
   https://github.com/tzutalin/labelImg
@@ -61,8 +68,3 @@
   http://www.wisdom.weizmann.ac.il/~vision/NonLocalVideoSegmentation.html
 - Object Tracker written in Python using dlib and OpenCV - by Bikramjot Hanzra  
   https://github.com/bikz05/object-tracker  
-  
-# etc
-- Class Activation Mapping  
-  http://cnnlocalization.csail.mit.edu/
-  
