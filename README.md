@@ -32,9 +32,11 @@
 - MASK R-CNN  
   paper: https://arxiv.org/pdf/1703.06870.pdf  
   code(tensorflow): https://github.com/CharlesShang/FastMaskRCNN  
+  code(pytorch): https://github.com/felixgwu/mask_rcnn_pytorch  
 - FASTER R-CNN  
   paper: https://arxiv.org/pdf/1506.01497.pdf  
   code(caffe): https://github.com/rbgirshick/py-faster-rcnn  
+  code(pytorch): https://github.com/longcw/faster_rcnn_pytorch  
 - FAST R-CNN  
   paper: https://arxiv.org/pdf/1504.08083.pdf  
 - R-CNN  
