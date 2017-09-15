@@ -8,10 +8,18 @@
 - [ ] build dataset
 
 ### Modeling 
-- [x] compare object detection models
-- [ ]  
-- [ ]  
-- [ ]  
-- [ ] 
-- [ ]  
-- [ ]  
+- [x] compare and choose object detection models
+- [ ] implement model network 
+- [ ] train  
+- [ ] tune model on validation result
+- [ ] test
+
+### Folders
+* data
+  * 00_source_videos
+  * 01_source_frames
+  * 02_segmented_frames
+  * 03_tracking_output
+  * 04_annotations
+    * coco
+    * voc
