@@ -36,6 +36,7 @@
 - FASTER R-CNN  
   paper: https://arxiv.org/pdf/1506.01497.pdf  
   code(caffe): https://github.com/rbgirshick/py-faster-rcnn  
+    *https://github.com/rbgirshick/py-faster-rcnn/issues/237  
   code(pytorch): https://github.com/longcw/faster_rcnn_pytorch  
 - FAST R-CNN  
   paper: https://arxiv.org/pdf/1504.08083.pdf  
