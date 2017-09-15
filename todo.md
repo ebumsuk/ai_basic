@@ -1,5 +1,5 @@
 
-# Data preparation
+### Data preparation
 - [x] extract frames from video file
 - [ ] temporal segmentation (optional)
 - [ ] object proposal using template matching (optional)
@@ -7,7 +7,7 @@
 - [ ] make image annotation : coco and voc format
 - [ ] build dataset
 
-# Modeling 
+### Modeling 
 - [x] compare object detection models
 - [ ]  
 - [ ]  
