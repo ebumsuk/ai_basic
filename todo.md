@@ -15,11 +15,11 @@
 - [ ] test
 
 ### Folders
-'- data  
-  ㄴ 00_source_videos  
-  ㄴ 01_source_frames  
-  ㄴ 02_segmented_frames  
-  ㄴ 03_tracking_output  
-  ㄴ 04_annotations  
-    ㄴ coco  
-    ㄴ voc  
+- data  
+  - 00_source_videos  
+  - 01_source_frames  
+  - 02_segmented_frames  
+  - 03_tracking_output  
+  - 04_annotations  
+    - coco  
+    - voc  
