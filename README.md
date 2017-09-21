@@ -7,6 +7,13 @@
 - Awesome TensorFlow  
   https://github.com/jtoy/awesome-tensorflow
 
+# pytorch Github repositories
+- SSD: https://github.com/amdegroot/ssd.pytorch  
+- YOLOv2: https://github.com/longcw/yolo2-pytorch  
+  YOLOv2: https://github.com/marvis/pytorch-yolo2  
+- Faster R-CNN: https://github.com/longcw/faster_rcnn_pytorch  
+  Mask R-CNN: https://github.com/felixgwu/mask_rcnn_pytorch  
+
 # YOLO
 - YOLO: Real-Time Object Detection  
   https://pjreddie.com/darknet/yolo/
@@ -19,28 +26,28 @@
 - solving nvcc not found error  
   NVCC = (which nvcc) in Makefile  
   http://blog.csdn.net/qq_30401249/article/details/51564871
-
+- code(pytorch): https://github.com/longcw/yolo2-pytorch  
+  code(pytorch): https://github.com/marvis/pytorch-yolo2  
 
 # SSD (Single Shot Detector)
 - Wei Liu's page: http://www.cs.unc.edu/~wliu/  
+- code(pytorch): https://github.com/amdegroot/ssd.pytorch  
 - code(tensorflow): https://github.com/balancap/SSD-Tensorflow  
-  code(pytorch): https://github.com/amdegroot/ssd.pytorch  
-  code(pytorch): https://github.com/kuangliu/pytorch-ssd  
   code(chainer): https://github.com/Hakuyume/chainer-ssd
 
 # R-CNN
-- MASK R-CNN  
-  paper: https://arxiv.org/pdf/1703.06870.pdf  
-  code(tensorflow): https://github.com/CharlesShang/FastMaskRCNN  
-  code(pytorch): https://github.com/felixgwu/mask_rcnn_pytorch  
 - FASTER R-CNN  
   paper: https://arxiv.org/pdf/1506.01497.pdf  
+  code(pytorch): https://github.com/longcw/faster_rcnn_pytorch  
   code(caffe): https://github.com/rbgirshick/py-faster-rcnn  
     *https://github.com/rbgirshick/py-faster-rcnn/issues/237  
-    Trying ./experiments/scripts/faster_rcnn_end2end.sh 1 VGG16 pascal_voc
+    Trying ./experiments/scripts/faster_rcnn_end2end.sh 1 VGG16 pascal_voc  
     *https://github.com/rbgirshick/py-faster-rcnn/issues/198  
-    *https://github.com/rbgirshick/py-faster-rcnn/issues/480
-  code(pytorch): https://github.com/longcw/faster_rcnn_pytorch  
+    *https://github.com/rbgirshick/py-faster-rcnn/issues/480  
+- MASK R-CNN  
+  paper: https://arxiv.org/pdf/1703.06870.pdf  
+  code(pytorch): https://github.com/felixgwu/mask_rcnn_pytorch  
+  code(tensorflow): https://github.com/CharlesShang/FastMaskRCNN  
 - FAST R-CNN  
   paper: https://arxiv.org/pdf/1504.08083.pdf  
 - R-CNN  
