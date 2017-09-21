@@ -37,7 +37,9 @@
   paper: https://arxiv.org/pdf/1506.01497.pdf  
   code(caffe): https://github.com/rbgirshick/py-faster-rcnn  
     *https://github.com/rbgirshick/py-faster-rcnn/issues/237  
+    Trying ./experiments/scripts/faster_rcnn_end2end.sh 1 VGG16 pascal_voc
     *https://github.com/rbgirshick/py-faster-rcnn/issues/198  
+    *https://github.com/rbgirshick/py-faster-rcnn/issues/480
   code(pytorch): https://github.com/longcw/faster_rcnn_pytorch  
 - FAST R-CNN  
   paper: https://arxiv.org/pdf/1504.08083.pdf  
