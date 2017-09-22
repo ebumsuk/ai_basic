@@ -60,6 +60,10 @@
   https://github.com/chainer/chainercv/  
 - Class Activation Mapping  
   http://cnnlocalization.csail.mit.edu/  
+- PR-012: Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks  
+  https://www.youtube.com/watch?v=kcPAGIgBGRs
+- Tensorflow Python API Guides : Image  
+  https://www.tensorflow.org/api_guides/python/image  
   
 # Image Annotation
 - LabelImg : a graphical image annotation tool  
@@ -68,10 +72,6 @@
   http://labelme.csail.mit.edu
 - List of Manual Image Annotation Tools  
   https://en.wikipedia.org/wiki/List_of_Manual_Image_Annotation_Tools
-- PR-012: Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks  
-  https://www.youtube.com/watch?v=kcPAGIgBGRs
-- Tensorflow Python API Guides : Image  
-  https://www.tensorflow.org/api_guides/python/image  
   
 # Unsupervised Learning
 - Learning Features by Watching Objects Move (CVPR 2017)  
