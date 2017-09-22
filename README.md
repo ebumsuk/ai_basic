@@ -9,6 +9,7 @@
 
 # pytorch Github repositories
 - SSD: https://github.com/amdegroot/ssd.pytorch  
+  * change batch_size 16->32, learning-rate 1e-3->1e-4
 - YOLOv2: https://github.com/longcw/yolo2-pytorch  
   YOLOv2: https://github.com/marvis/pytorch-yolo2  
 - Faster R-CNN: https://github.com/longcw/faster_rcnn_pytorch  
