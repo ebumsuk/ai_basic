@@ -8,8 +8,10 @@
 - [ ] build dataset
 
 ### Modeling 
-- [ ] run github object detection models
-      [x] SSD [x] YOLO [ ] Faster R-CNN
+- [ ] run github object detection models  
+      [x] SSD  
+      [x] YOLO   
+      [ ] Faster R-CNN  
 - [ ] compare and choose object detection models
 - [ ] implement model network 
 - [ ] train  
