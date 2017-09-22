@@ -8,7 +8,9 @@
 - [ ] build dataset
 
 ### Modeling 
-- [x] compare and choose object detection models
+- [ ] run github object detection models
+      [x] SSD [x] YOLO [ ] Faster R-CNN
+- [ ] compare and choose object detection models
 - [ ] implement model network 
 - [ ] train  
 - [ ] tune model on validation result
