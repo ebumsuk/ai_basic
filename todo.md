@@ -4,7 +4,7 @@
 - [ ] temporal segmentation (optional)
 - [ ] object proposal using template matching (optional)
 - [ ] confirm object to track
-- [ ] make image annotation : coco and voc format
+- [ ] make image annotation : pascal-voc format
 - [ ] build dataset
 
 ### Modeling 
