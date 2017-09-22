@@ -9,9 +9,7 @@
 
 ### Modeling 
 - [ ] run github object detection models  
-      [x] SSD  
-      [x] YOLO   
-      [ ] Faster R-CNN  
+      SSD, YOLO (Done), Faster R-CNN (Testing)    
 - [ ] compare and choose object detection models
 - [ ] implement model network 
 - [ ] train  
